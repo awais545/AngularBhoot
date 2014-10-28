@@ -11,6 +11,7 @@ gem 'therubyracer',  platforms: :ruby
 gem 'jquery-rails'
 gem 'jbuilder', '~> 2.0'
 
+gem 'bower-rails'
 
 group :test, :development do
   gem "rspec"
